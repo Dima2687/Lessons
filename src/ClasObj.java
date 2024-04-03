@@ -6,7 +6,7 @@ public class ClasObj {
         System.out.println("Меня зовут "+person1.name+" мне "+person1.age);
         Person person2 = new Person();
         person2.name = "Дима";
-        person2.age = 30;
+        person2.age = 35;
         System.out.println("Меня зовут "+person2.name+" мне "+person2.age);
     }
 }
