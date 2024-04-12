@@ -10,7 +10,7 @@ public class ClasObj {
         System.out.println("Меня зовут "+person2.name+" мне "+person2.age);
     }
 }
-class Person{
+class Person5{
     String name;
     int age;
 }
